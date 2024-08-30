@@ -29,7 +29,7 @@ This is a simple Telegram bot that translates messages sent to it. It uses the G
 ## Configuration
 1. To change the target language for translation:
 
- - Open `bot.py`.
+ - Open `language_translator.py`.
 2. Locate the line:
 
     ```bash
@@ -52,7 +52,7 @@ This is a simple Telegram bot that translates messages sent to it. It uses the G
 ## Usage
 1. Run the bot:
    ```bash
-   python bot.py
+   python language_translator.py
 2. Interact with the bot on Telegram:
 
  - Start the bot by sending the /start command.
