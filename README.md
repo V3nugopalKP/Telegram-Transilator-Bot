@@ -58,8 +58,6 @@ This is a simple Telegram bot that translates messages sent to it. It uses the G
  - Start the bot by sending the /start command.
  - Send any text message, and the bot will reply with the translated message in the configured language.
    
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributing
 Feel free to open issues or submit pull requests if you'd like to contribute improvements to the bot.
